@@ -5,67 +5,201 @@
             "number" : "1",
             "duud":"こころ（みる）、ため（す）",
             "trans":"Турших - Солих",
+            "nemelt":"",
+            "translateN":"",
             "kanji":"試"
         },
         {
             "number" : "2",
             "duud":"ケン 、ゲン",
             "trans":"Тэмдэг - Баталгаа - Турших",
+            "nemelt":"",
+            "translateN":"",
             "kanji":"験"
         },
         {
             "number" : "3",
             "duud":"と（う）、と（い）、とん、もん",
             "trans":"Асуух - Лавлах - Асуудал",
+            "nemelt":"",
+            "translateN":"",
             "kanji":"問"
         },
         {
             "number" : "4",
             "duud":"ダイ",
             "trans":"Дух - Товчлол - Гар бичиг",
+            "nemelt":"",
+            "translateN":"",
             "kanji":"題"
         },
         {
             "number" : "5",
             "duud":"こた（える）、こた（え）、イウ",
             "trans":"Хариулт - Хариулах",
+            "nemelt":"",
+            "translateN":"",
             "kanji":"答"
         },
         {
             "number" : "6",
             "duud":"みみ　、ジ",
             "trans":"Чих",
+            "nemelt":"",
+            "translateN":"",
             "kanji":"耳"
         },
         {
             "number" : "7",
             "duud":"もち（いる）, ヨウ",
             "trans":"Ашиглах - Хэрэглэх - Хэрэг болох - Үйлчилгээ",
+            "nemelt":"",
+            "translateN":"",
             "kanji":"用"
         },
         {
             "number" : "8",
             "duud":"はじ（める）, はじ（まる ）, し",
             "trans":"Эхлэх",
+            "nemelt":"",
+            "translateN":"",
             "kanji":"始"
         },
         {
             "number" : "9",
             "duud":"と（ぐ）、ケン",
             "trans":"Цуглуулах - Цуглах",
+            "nemelt":"",
+            "translateN":"",
             "kanji":"研"
         },
         {
             "number" : "10",
             "duud":"きわ（めろ）、キュウ",
             "trans":"Ирлэх - Зүлгэх - Гүнзгий судлах",
+            "nemelt":"",
+            "translateN":"",
             "kanji":"究"
         },
         {
             "number" : "11",
             "duud":"ダイ　、タイ",
             "trans":"Тавцан - Өндөр барилга - Ажиллах тавцан",
+            "nemelt":"",
+            "translateN":"",
             "kanji":"~台"
+        },
+        {
+            "number" : "12",
+            "duud":"まえ、ぜん",
+            "trans":"",
+            "nemelt":"前、午前、名前、駅前",
+            "translateN":"",
+            "kanji":"前"
+        },
+        {
+            "number" : "13",
+            "duud":"うし（ろ）、あと、のち、おく（れる）、ご、こう",
+            "trans":"",
+            "nemelt":"午後、後ろ",
+            "translateN":"",
+            "kanji":"後"
+        },
+        {
+            "number" : "14",
+            "duud":"やす（む）、やす（まる）、やす（める）、きゅう",
+            "trans":"",
+            "nemelt":"",
+            "translateN":"",
+            "kanji":"休"
+        },
+        {
+            "number" : "15",
+            "duud":"まい",
+            "trans":"",
+            "nemelt":"毎日、毎月、毎年、毎朝、毎週、毎晩",
+            "translateN":"",
+            "kanji":"毎"
+        },
+        {
+            "number" : "16",
+            "duud":"なに、なん、か",
+            "trans":"",
+            "nemelt":"何",
+            "translateN":"",
+            "kanji":"何"
+        },
+        {
+            "number" : "17",
+            "duud":"い（く）、ゆ（く）、おこな（う）、こう、ぎょう、あん",
+            "trans":"",
+            "nemelt":"行きます、銀行、銀行員、旅行、旅行します",
+            "translateN":"",
+            "kanji":"行"
+        },
+        {
+            "number" : "18",
+            "duud":"く（る）、きた（る）、きた（す）、　らい",
+            "trans":"",
+            "nemelt":"来ます、来週、来月、来年、外来語",
+            "translateN":"",
+            "kanji":"来"
+        },
+        {
+            "number" : "19",
+            "duud":"こう",
+            "trans":"",
+            "nemelt":"高校生、高校、学校、小学校、中学校",
+            "translateN":"",
+            "kanji":"校"
+        },
+        {
+            "number" : "20",
+            "duud":"しゅう",
+            "trans":"",
+            "nemelt":"先週、来週、今週、毎週",
+            "translateN":"",
+            "kanji":"週"
+        },
+        {
+            "number" : "21",
+            "duud":"ざ（る）、きょ、",
+            "trans":"",
+            "nemelt":"去年",
+            "translateN":"",
+            "kanji":"去"
+        },
+        {
+            "number" : "22",
+            "duud":"えき",
+            "trans":"",
+            "nemelt":"駅、駅前",
+            "translateN":"",
+            "kanji":"駅"
+        },
+        {
+            "number" : "23",
+            "duud":"でん",
+            "trans":"",
+            "nemelt":"電車、電気、電話、電話します",
+            "translateN":"",
+            "kanji":"電"
+        },
+        {
+            "number" : "24",
+            "duud":"くるま、しゃ",
+            "trans":"",
+            "nemelt":"車、電車、自転車、自動車",
+            "translateN":"",
+            "kanji":"車"
+        },
+        {
+            "number" : "25",
+            "duud":"みずか（ら）、じ、し",
+            "trans":"",
+            "nemelt":"自転車、自動車、自分で",
+            "translateN":"",
+            "kanji":"自"
         }
     ]
 }
